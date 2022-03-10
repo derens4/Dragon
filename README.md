@@ -24,50 +24,50 @@ https://github.com/mwittrien/BetterDiscordAddons/blob/1108bc6946a17344c0418baed0
 
 # RED
 # MENU UP
-![RED UP](https://www.derhos.es/themes/dragon/rubasebackground.png)
+![RED UP](https://www.derhos.es/themes/Dragon/rubasebackground.png)
 
 # MENU LEFT
-![RED LEFT](https://www.derhos.es/themes/dragon/rlbasebackground.png)
+![RED LEFT](https://www.derhos.es/themes/Dragon/rlbasebackground.png)
 
 
 # BLACK
 # MENU UP
-![BLACK UP](https://www.derhos.es/themes/dragon/bubasebackground.png)
+![BLACK UP](https://www.derhos.es/themes/Dragon/bubasebackground.png)
 
 # MENU LEFT
-![BLACK LEFT](https://www.derhos.es/themes/dragon/blbasebackground.png)
+![BLACK LEFT](https://www.derhos.es/themes/Dragon/blbasebackground.png)
 
 # BLUE
 # MENU UP
-![BLUE UP](https://www.derhos.es/themes/dragon/blubasebackground.png)
+![BLUE UP](https://www.derhos.es/themes/Dragon/blubasebackground.png)
 
 # MENU LEFT
-![BLUE LEFT](https://www.derhos.es/themes/dragon/bllbasebackground.png)
+![BLUE LEFT](https://www.derhos.es/themes/Dragon/bllbasebackground.png)
 
 # GREEN
 # MENU UP
-![GREEN UP](https://www.derhos.es/themes/dragon/gubasebackground.png)
+![GREEN UP](https://www.derhos.es/themes/Dragon/gubasebackground.png)
 
 # MENU LEFT
-![GREEN LEFT](https://www.derhos.es/themes/dragon/glbasebackground.png)
+![GREEN LEFT](https://www.derhos.es/themes/Dragon/glbasebackground.png)
 
 # PURPLE
 # MENU UP
-![PURPLE UP](https://www.derhos.es/themes/dragon/pubasebackground.png)
+![PURPLE UP](https://www.derhos.es/themes/Dragon/pubasebackground.png)
 
 # MENU LEFT
-![PURPLE LEFT](https://www.derhos.es/themes/dragon/plbasebackground.png)
+![PURPLE LEFT](https://www.derhos.es/themes/Dragon/plbasebackground.png)
 
 # WHITE
 # MENU UP
-![WHITE UP](https://www.derhos.es/themes/dragon/wubasebackground.png)
+![WHITE UP](https://www.derhos.es/themes/Dragon/wubasebackground.png)
 
 # MENU LEFT
-![WHITE LEFT](https://www.derhos.es/themes/dragon/wlbasebackground.png)
+![WHITE LEFT](https://www.derhos.es/themes/Dragon/wlbasebackground.png)
 
 # YELLOW
 # MENU UP
-![YELLOW UP](https://www.derhos.es/themes/dragon/yubasebackground.png)
+![YELLOW UP](https://www.derhos.es/themes/Dragon/yubasebackground.png)
 
 # MENU LEFT
-![YELLOW LEFT](https://www.derhos.es/themes/dragon/ylbasebackground.png)
+![YELLOW LEFT](https://www.derhos.es/themes/Dragon/ylbasebackground.png)
